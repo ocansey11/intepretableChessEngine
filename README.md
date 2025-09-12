@@ -3,7 +3,7 @@
 ### Author
 **Kevin Ocansey**  
 Email: [kevinocansey11@gmail.com]  
-Kaggle: [kevinocansey]([https://www.kaggle.com/kevinocansey](https://www.kaggle.com/code/kevinocansey/interpretable-and-explainable-chess-engine])
+Kaggle: [kevinocansey]([https://www.kaggle.com/kevinocansey](https://www.kaggle.com/code/kevinocansey/interpretable-and-explainable-chess-engine)
 
 ---
 
