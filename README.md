@@ -1,4 +1,12 @@
+
 # Interpretable and Explainable Chess Engine
+### Author
+**Kevin Ocansey**  
+Email: [kevinocansey11@gmail.com]  
+Kaggle: [kevinocansey]([https://www.kaggle.com/kevinocansey](https://www.kaggle.com/code/kevinocansey/interpretable-and-explainable-chess-engine))
+
+---
+
 
 ## Overview
 
@@ -74,13 +82,6 @@ If you use this code, models, or analysis in your own research, please cite this
 
 ---
 
-## Contact
-
-**Kevin Ocansey**  
-Email: [kevinocansey11@gmail.com]  
-Kaggle: [kevinocansey](https://www.kaggle.com/kevinocansey)
-
----
 
 ## Acknowledgements
 
