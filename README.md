@@ -2,7 +2,7 @@
 # Interpretable and Explainable Chess Engine
 ### Author
 **Kevin Ocansey**  
-Email: [kevinocansey11@gmail.com]  
+Youtube Walkthrough: [Youtube](https://youtu.be/_kIkILBInUs)  
 Kaggle: [kevinocansey]([https://www.kaggle.com/kevinocansey](https://www.kaggle.com/code/kevinocansey/interpretable-and-explainable-chess-engine)
 
 ---
